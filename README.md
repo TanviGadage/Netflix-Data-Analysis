@@ -12,20 +12,19 @@ This dataset consists of CSV file contain(netflix_titles.csv) . We will utilize 
 There are  8807 rows of data.
  
 # Objectives of the Project :
-
-• To understand what content is available in different countries. 
-•  of movies/shows released based on the year. 
-• The most rated content based on the genre.  
-• Network analysis of actors/directors. 
-• Is Netflix has increasingly focusing on TV shows rather than movies in recent years. 
-• The most observed rating by category in TV shows and movies. 
-• How many movies or shows it has released year differ from its year added.
-
-Tools :
-Pandas: for data analysis.
-Numpy: for mathematical equations
-Seaborn: for data visualizations
-Matplotlib: for data visualizations
+- To understand what content is available in different countries.
+- of movies/shows released based on the year.
+- The most rated content based on the genre.
+- Network analysis of actors/directors.
+- Is Netflix has increasingly focusing on TV shows rather than movies in recent years.
+- The most observed rating by category in TV shows and movies.
+- How many movies or shows it has released year differ from its year added.
+  
+# Tools :
+Pandas: for data analysis. 
+Numpy: for mathematical equations 
+Seaborn: for data visualizations 
+Matplotlib: for data visualizations 
 SciPy: for mathematical equations
 
 Tableau for Visualization.
