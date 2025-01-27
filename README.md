@@ -14,7 +14,7 @@ There are  8807 rows of data.
 # Objectives of the Project :
 
 • To understand what content is available in different countries. 
-• No of movies/shows released based on the year. 
+•  of movies/shows released based on the year. 
 • The most rated content based on the genre.  
 • Network analysis of actors/directors. 
 • Is Netflix has increasingly focusing on TV shows rather than movies in recent years. 
