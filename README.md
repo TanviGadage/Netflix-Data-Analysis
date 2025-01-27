@@ -14,3 +14,17 @@ From the column names, we could observe that there are twelve columns: show_id, 
 cast, country, date_added, release_year, rating, duration, listed_in, description.
 There are  8807 rows of data.
  
+# Objectives of the Project :
+
+• To understand what content is available in different countries. 
+• No of movies/shows released based on the year. 
+• The most rated content based on the genre.  
+• Network analysis of actors/directors. 
+• Is Netflix has increasingly focusing on TV shows rather than movies in recent years. 
+• The most observed rating by category in TV shows and movies. 
+• How many movies or shows it has released year differ from its year added.
+
+# SCOPE OF THE PROJECT: 
+• Understanding what content is available in different countries 
+• Identifying similar content by matching text-based features 
+• Is Netflix has increasingly focusing on TV rather than movies in recent years ?
