@@ -21,11 +21,12 @@ There are  8807 rows of data.
 - How many movies or shows it has released year differ from its year added.
   
 # Tools :
-Pandas: for data analysis.
-Numpy: for mathematical equations
-Seaborn: for data visualizations
-Matplotlib: for data visualizations
-SciPy: for mathematical equations
-
+- Pandas: for data analysis.
+- Numpy: for mathematical equations
+- Seaborn: for data visualizations
+- Matplotlib: for data visualizations
+- SciPy: for mathematical equations
+  
 Tableau for Visualization.
+
 Tableau link  : https://public.tableau.com/app/profile/tanvi.gadage/viz/NetflixDataAnalysis_17379070547060/Story1?publish=yes
