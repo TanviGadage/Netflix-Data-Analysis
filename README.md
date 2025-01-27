@@ -21,10 +21,10 @@ There are  8807 rows of data.
 - How many movies or shows it has released year differ from its year added.
   
 # Tools :
-Pandas: for data analysis. 
-Numpy: for mathematical equations 
-Seaborn: for data visualizations 
-Matplotlib: for data visualizations 
+Pandas: for data analysis.
+Numpy: for mathematical equations
+Seaborn: for data visualizations
+Matplotlib: for data visualizations
 SciPy: for mathematical equations
 
 Tableau for Visualization.
